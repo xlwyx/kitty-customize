@@ -15,3 +15,6 @@ for the foreground and background, I found it, here: https://www.color-hex.com/
 See it:
 
 ![image](https://user-images.githubusercontent.com/83835896/141429253-d6dab17e-a34e-4558-92df-806be0884d86.png)
+
+![image](https://user-images.githubusercontent.com/83835896/145286680-928ffd55-a150-41fe-8864-671bd45cfd24.png)
+
